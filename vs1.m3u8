@@ -510,8 +510,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eohcpWr.png?v=1.0.0.1" group-title="Knowledge" tvg-id="CGTNDocumentary.cn" tvg-name="CGTN-Documentary", CGTN Documentary
-http://cdn.nng.cloudns.us/live/m3u8/knl/cgtndocumentary.m3u8
-#https://warningfm.github.io/v3/live/str/knl/0d3dbf8c78f1fb7.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/knl/cgtndocumentary.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/knl/0d3dbf8c78f1fb7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -528,7 +528,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMmDRaD.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia.id" tvg-name="Discovery Asia", Discovery Asia
-http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
