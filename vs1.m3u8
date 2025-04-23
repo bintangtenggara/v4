@@ -366,45 +366,52 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mp
 ########################################################   Religious   ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem", AlQuran Kareem
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/45153dc2a9be308598afe5a55625562fa920f606/f74b5dff8b8e6c6.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSfuYiKJQecm6oG-t1wvGTKJGymZzH0yT1ZMR94TmQ158STHvoa7g-YRPdRSli5iA9Wl2UAf8cUrvVbW-AmZNu1T2-hZBOx9LOK8Ym1qKFFVQihkCnm3pNEC6oUOSDdI02T4PoYra-dU6JVPtThPHgmavSignQMnxe4NQmCuxUtv5FF8TqFSf-kmzWs2A/s1600/WlUjXgD.pn?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1Li8EyKBY5ooLft3mEaM4KlVb6JOc46nsZ30k9gyl7vH_BL7UFnfLnGGgM4vib9tACMwxG_VB7gRXPkNquybTNGHm62KIrQ6LrHuAwSb_MCs_4Fu62lwrj2jKQz-isZBfVL55Hbr9vnQMYZs1l_1zroWY_4g9Lm4RnRmXuyW8wcemDl9bsNLlsskBQqV/s1600/egPVmpw.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem", AlQuran Kareem
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/34736dc87483f5fb8902871390c3e2419ec4a675/f74b5dff8b8e6c6.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiuNhVBR2eZT06htAs8-xKWZZMbQ-H-9VbVhAYzaJcDVQBZSFfkqhhnp8sBZjPA6OVkXTtqo8eVrqBk_CA2Iw5NQI_98sSDeGU3Kg6NrRszMF6IUYXAMKX2Q2Tfo798KN_rhYvxcwo-Z9V5pjpl6dtZweBKyEoCukQVsw5baR8ZRRefspkiE4HiyDNbY5a/s1600/eQV2pHF.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="Saudi Sunna HD.ae" tvg-name="Saudi Sunna HD.ae", Saudi Sunna HD
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/34736dc87483f5fb8902871390c3e2419ec4a675/18d7c304801584a.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Saudi Sunna HD.ae" tvg-name="Saudi Sunna HD.ae", Saudi Sunna (Medina)
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9lQaMQrxg4MpqDz-wjdPEAwhSPdkWCMIdJCptpibrNKncYnGnW2dW-44wUOgQx-88P35Tv_4wo3tvzr0y-Lu-Y0tCvdpLwa6KmzTYcPoOzTLfpStAYwegOka-tuRtCfvS3YAQuFmWvgyUEej-RV41cUCB2idWQpPqAbLjfvTRkO9IoSJ5mpXAoVHouZIh/s1600/LG4sbWl.png?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar", Makkah TV
+http://cdn.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vUHoMzT.png?v=1.1.1.1" group-title="Religious" tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar", Makkah TV
-http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religious" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
-http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzOPM2GqTEZxtFk3l2O-EjQaD2Miw44lQBzptogSckw1LWrpgRwXPk7ZYaHE5BAnni2a2jyUHwW-poc4dmFfQ3RtzSXpnmihEHr7ZS5URK_UbQsh5viq_kzW_zNDf3hddlZr6WsnerZAM6RYtwtrNP3r-F3U1-QELMhvp00yO2lxYKauVwBS0l1GZZXKxh/s1600/VChPvOB.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
+http://cdn.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ryfc1GT.png?v=1.0.0.1" group-title="Religious" tvg-id="MuslimTV.id" tvg-name="Muslim TV", Muslim TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoO3le71CUb1ECJdymyQvJXDBVKLJSzACnKTiUPTKMkupFORlZkr7KskLsiomDxc7mY2_hm3ztlZ_XRpTtutAQqQJK7IJS4LokeR3YecHHZBHvzZ61yyoovZJ3pMndnE9NYli77A10gf0_ftZlJF2uJBMhGfBf9dcoOVnBsglL3Qq47MtbYZOZ4DqAHKdg/s1600/5ik1ZkS.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="MuslimTV.id" tvg-name="Muslim TV", Muslim TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1" group-title="Religious" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/938bb823da18f400de1fdeec9b5fabb9119ffe4b/ca07a749e91966b.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
+http://cdn.nng.cloudns.us/live/m3u8/id/ca07a749e91966b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="Religious" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/8cf53f05d87604077263b7b82516b1b7c63b5cea/MQGHZhlYFicsYHQ.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6-AEIEqwlKpyJlDz4FGDSvUBPF5p5JbEuse1pHCT5E8CNGEkcMku3A7v_fXIvGD21x62KKs_y6FrmU7jEmvcOiii7P7Z3iO530lX2Moa6v5AQbXILnv-0u3JI4GNpOAph3fGoFoAch5GQQiSBnTV1uqrTcuUjuCfxYl9sny_r0ZIgmIV1nrnBTocdOh4X/s1600/16J00Be.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TVMU.id" tvg-name="TVMU", TVMU
+http://cdn.nng.cloudns.us/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV" tvg-name="MQTV", MQTV
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcn3s68zByVqmSoxERoGCEen9l3_m47_5IAk3I5Ynf7RvSwWrSvISas38Y3prb7NiSrGVF6eYaQE9Qz9YiYPwGb99CacIoHw2GKFQcpDXipP954znXXXjBagoO0XoShe5_LVQAZw8yG5DCUz-D11TVye5UBNVgnTJCmlwCm4cMBPNfQygLEUrQgu-4pkRE/s1600/Xemwmoo.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="MQTV.id" tvg-name="MQTV", MQTV
+http://cdn.nng.cloudns.us/live/m3u8/id/55b1da7f755ebf7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="Religious" tvg-id="muitv" tvg-name="MUI TV", MUI TV
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi866S3gjBEh-2xwbkT0Hryo-cHL87xQYnEGvjuck8gV2auLanTr54aAGj_tXXV1DmT50HFhkfJO5q7WT3N-INtC_f3YeSrvlOFiOVU62qR3j-exk9NPF6m1yCBgCIhgp9bdxkHtkHZljkE4fFpBpGWjfDQfHI1qD-1RVc1PVyTSjbuNNezZPZpX5IzTwx-/s1600/hzPnJaX.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TVMUI.id" tvg-name="MUI TV", MUI TV
+http://cdn.nng.cloudns.us/live/m3u8/id/71b5c8483161297.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/oJE1tDf.png?v=1.0.0.1" group-title="Religious" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKrTEiSlvAS3OzNXI6sZf8EKBbvhWP7aQNv1VpGAA5T8nas3UikzAaaVKQmGGEVsQt9G6kLRg1-lPo7dDW4fHAr6AWTnOGrkP9lghtB1-mfgi891Wg22dJgunIC0idEH0dv8Qf_GbJxQTerkgSX1vtBI_uNX7fu75dMPG1_AfRZn1OWSlgDXqHwBL0LG-/s1600/iTNc5uf.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="Rodja TV.id" tvg-name="Rodja TV.id", Rodja TV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 
 ########################################################     Sports    ########################################################
 
