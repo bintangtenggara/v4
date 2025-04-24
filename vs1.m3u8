@@ -341,7 +341,7 @@ https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/ra
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 14; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pd4Ck0W.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Lifetime.id" tvg-name="Lifetime", LifeTime
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
