@@ -1212,9 +1212,6 @@ https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/ma
 ########################################################     Adult Lifestyle    ########################################################
 ########################################################                        ########################################################
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8vcb0exdJH1BsDub4F-DMFlXVfTMd1DdRLds9T9yBGQ=s900-c-k-c0x00ffffff-no-rj?v=1.0.0.1" group-title="Adult Lifestyle & Interests", A3Bikini
-https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MF7tSO1.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", MiamiTV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
@@ -1245,7 +1242,7 @@ https://www.xozilla.com/get_file/20/95caf6b474c69a2f28a59da1a448198a/362000/3621
 ########################################################     Radio     ########################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oXjwIYm.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-http://asv.alhastream.com:3310/rbtfm
+https://stream.zeno.fm/r4mpcrfwfzzuv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5XtE1G.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
