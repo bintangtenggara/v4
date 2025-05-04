@@ -980,10 +980,10 @@ https://warningfm.github.io/v3/live/str/ns/ccb94808e06e001.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nLk6uxc.png?v=1.0.0.1" group-title="🌍 News" tvg-id="CNNInternational.id" tvg-name="CNN International", CNN International
-https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GZQvCs6.png?v=1.0.0.1" group-title="🌍 News" tvg-id="DWEnglish.de" tvg-name="DW (English)", DW (English)
