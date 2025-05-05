@@ -803,7 +803,7 @@ https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" tvg-id="HITSMovies.id" tvg-name="HITS Movies", Hits Movies
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" tvg-id="HITS.MOVIES.id" tvg-name="HITS MOVIES", Hits Movies
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
