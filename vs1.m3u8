@@ -1090,59 +1090,54 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
 
 ########################################################     Hindi     ########################################################
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OjVzvfx.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Bioskop.id" tvg-name="Zee Bioskop.id", Zee Bioskop
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cs0nxSC.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tGxXyxe.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.HD.distro" tvg-name="Bollywood.HD.distro", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2zlXcs.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in", Sony MAX
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pDpoFGF.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in", Sony Max
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwQNKWE.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SonyKal" tvg-name="SONY Kal", Sony Kal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/T7U53yp.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SonyKal" tvg-name="SONY Kal", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxNn4d0.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/h7AsKWo.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="ZeeBioskop.in.id" tvg-name="Zee Bioskop", Zee Bioskop
+https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wdBBWAo.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.HD.distro" tvg-name="Bollywood.HD.distro", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2CZWDn-gVks/YaRWeK4pqkI/AAAAAAAABeE/aawEF9bRY1YG8_xHo3Q1esrp3e0a2UwpgCLcBGAsYHQ/s0/C5EpW33.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Bflix" tvg-name="Bflix", Bflix Movies
-https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
-
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-action/drmLicense
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/DYI3Nyc.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="zee-action" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN", Zee Action
+https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Gakj0l7.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+nputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zing/drmLicense
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/2UQNzYB.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zing.in" tvg-name="Zing.in", Zing
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pgujqPc.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zing.in" tvg-name="Zing.in", Zing
 https://otttv.co.in/d2h/livestream/zing/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4L7BYKM.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="andpictures HD" tvg-name="andpictures HD", &pictures HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ah87mIL.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andpictures.in" tvg-name="andpictures.in", &pictures
 https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-tv/drmLicense
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/ceBQDFq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee TV" tvg-name="Zee TV HD", Zee TV
-https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Akf09tQ.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood", Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-cinema/drmLicense
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RArAA1PLfXc/Yazhuq-x75I/AAAAAAAABhM/ZEAGZgIIB7Ubho7CbkfsFXOEkeZNqWJGACNcBGAsYHQ/s0/gSsIODC.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Zee Cinema
-https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/COLOR%20HINDI.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="COLORS" tvg-name="COLORS", Colors HD
-https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
 
