@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://nano.nng.cloudns.us/epg/guide.xml.gz" url-tvg="https://nano.nng.cloudns.us/epg/guide.xml.gz" refresh="3600"
 
 #EXTM3U
+# (●) Last Update: 2025-03-30 23:29:00 GMT+7 "
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5aGd5Nc.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
