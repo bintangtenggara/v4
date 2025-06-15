@@ -223,13 +223,13 @@ https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Usm7lN7.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Disney XD (East).us" tvg-name="Disney XD (East).us", Disney XD
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaWGEs5.png" group-title="Kids", Dunia Anak
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZaWGEs5.png?v=1.0.0.1" group-title="Kids" group-logo="https://i.imgur.com/BxvUXcn.png?v=1.0.0.1" tvg-id="DuniaAnak.id" tvg-name="Dunia Anak", Dunia Anak
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd|Referer=https://www.indihometv.com
 
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #EXTVLCOPT:http-origin=https://cignalplay.com
@@ -325,9 +325,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JfO3N6Q.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DuniaLain.id" tvg-name="Dunia Lain", Dunia Lain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZXLmLWm.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Entertainment.id" tvg-name="ent", Entertainment
-https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|Referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZXLmLWm.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="Entertainment.id" tvg-name="ent", Entertainment
+https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd|Referer=https://www.visionplus.id
+#https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6BLiuPa.png?v=1.0.0.1" group-title="Entertainment" tvg-id="FoodTravel.id" tvg-name="Food Travel", Food Travel
